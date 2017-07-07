@@ -1,0 +1,9 @@
+please download dataset from
+http://image.ntua.gr/iva/datasets/flickr_logos/
+
+training set contains 809 annotated images
+test set contains 270 annoted images
+
+all images in same folder
+
+ignore distractor set
